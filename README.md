@@ -1,6 +1,7 @@
 # Meta_DS_PredictionModel_SentimentAnalysis
 “This project is independently created using publicly available data. It is not affiliated with or endorsed by Meta.”
-META : Rotten Tomatoes Movies Rating Prediction Model 🍅
+
+Rotten Tomatoes Movies Rating Prediction Model 🍅
 I have built a high-performing classification algorithm to predict whether a particular movie on Rotten Tomatoes is labeled as 'Rotten', 'Fresh', or 'Certified-Fresh', using two approaches :
 
 First : By using numerical and categorical features powered Classification Models
